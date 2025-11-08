@@ -18,6 +18,7 @@ function App() {
           <h2>{job.title}</h2>
           <p>{job.company}</p>
           <p>{job.description}</p>
+          <a href={job.url} target="_blank" rel="noopener noreferrer">Apply Here</a>
         </div>
       ))}
     </div>
