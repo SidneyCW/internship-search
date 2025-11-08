@@ -3,14 +3,14 @@ This is a pretty rudementary web app for searching for internships it aggregates
 
 ## Tech Stack
 ### Backend:
-+Django (REST Framework)
-+Celery (for background tasks)
-+SQLite (default for django data storage)
-+Redis (as Celery broker)
+-Django (REST Framework)
+-Celery (for background tasks)
+-SQLite (default for django data storage)
+-Redis (as Celery broker)
 ### Frontend:
-+React (Vite)
-+Axios (for API calls)
-+TailwindCSS (for styling)
+-React (Vite)
+-Axios (for API calls)
+-TailwindCSS (for styling)
 
 ## Project Setup
 1. Clone the repo
