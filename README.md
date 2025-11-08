@@ -53,6 +53,7 @@ python manage.py runserver
 ```
 Visit [http://127.0.0.1:8000/admin]
 Login with the credentials you set up in step 6
+
 8. (Optional) Run Celery for Background Tasks
 Start Redis in one terminal
 ```bash
