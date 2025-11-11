@@ -75,7 +75,28 @@ npm install
 ```bash
 npm run dev
 ```
+12. Setup the running scripts
+```bash
+chmod +x run_frontend.sh
+chmod +x run_backend.sh
+chmod +x stop_all.sh
+```
+
 Visit [http://localhost:5173]
+
+## Easier Running Once Set Up
+### FrontEnd
+```bash
+./run_frontend.sh
+```
+### BackEnd
+```bash
+./run_backend.sh
+```
+### Stop Everything
+```
+./stop_all.sh
+```
 
 | Task                | Command                                                       |
 | ------------------- | ------------------------------------------------------------- |
